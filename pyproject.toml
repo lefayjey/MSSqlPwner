@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mssqlpwner = "mssqlpwner.console:run"
+mssqlpwner = "mssqlpwner.cli:console"
 
 [project.optional-dependencies]
 dev = [
